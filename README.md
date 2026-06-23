@@ -1,2 +1,19 @@
-# proctorsb
-Componente responsable de analizar eventos de supervisión y determinar el nivel de riesgo asociado a una evaluación en línea
+# ProctorSB
+
+Plataforma de supervisión remota basada en IA
+integrada con Moodle.
+
+## Requisitos
+
+- PHP 8.2
+- Composer
+
+## Instalación
+
+git clone ...
+
+composer install
+
+## Ejecutar pruebas
+
+phpunit
